@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikash Yadav
-- 👀 I’m interested in Data Analytics.
+- 👀 I’m a Data Analyst.
 - 🌱 I’m currently learning Machine Learning , Deep Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me message me on Linkedin- https://in.linkedin.com/in/vikash-yadav-7a1b34202...
